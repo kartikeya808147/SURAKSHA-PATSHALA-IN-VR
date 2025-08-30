@@ -27,6 +27,7 @@ Backend: Firebase for managing user data, performance metrics, and progress trac
 Programming Language: C# for scripting VR interactions and game logic.
 
 Getting Started:
+use gemini ai to run program
 
 Clone this repository.
 
